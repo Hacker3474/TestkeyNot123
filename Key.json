@@ -1,0 +1,240 @@
+{
+  "last_updated": "2025-08-26T20:19:00Z",
+  "total_activations": 0,
+  "total_active_devices": 0,
+  "keys": [
+    {
+      "key": "WOURLD-KEY-57384571237",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-1136426746",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-121263856093",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-132634923649",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-146127936127396",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-152364273",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-163726492",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-173489264",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-183274862348",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-1972348972347",
+      "type": "standard",
+      "status": "active",
+      "max_devices": 1,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Стандартная лицензия на 1 устройство"
+    },
+    {
+      "key": "WOURLD-KEY-201238103",
+      "type": "premium",
+      "status": "active",
+      "max_devices": 2,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Премиум лицензия на 2 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-252342342346546",
+      "type": "premium",
+      "status": "active",
+      "max_devices": 2,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Премиум лицензия на 2 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-30456546546",
+      "type": "premium",
+      "status": "active",
+      "max_devices": 2,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Премиум лицензия на 2 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-354256245",
+      "type": "premium",
+      "status": "active",
+      "max_devices": 2,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Премиум лицензия на 2 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-4016461489",
+      "type": "premium",
+      "status": "active",
+      "max_devices": 2,
+      "expires": "2026-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Премиум лицензия на 2 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-45378462487",
+      "type": "professional",
+      "status": "active",
+      "max_devices": 3,
+      "expires": "2027-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Профессиональная лицензия на 3 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-502343264",
+      "type": "professional",
+      "status": "active",
+      "max_devices": 3,
+      "expires": "2027-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Профессиональная лицензия на 3 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-552634762347",
+      "type": "professional",
+      "status": "active",
+      "max_devices": 3,
+      "expires": "2027-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Профессиональная лицензия на 3 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-58782374892374",
+      "type": "professional",
+      "status": "active",
+      "max_devices": 3,
+      "expires": "2027-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Профессиональная лицензия на 3 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-602734829748",
+      "type": "professional",
+      "status": "active",
+      "max_devices": 3,
+      "expires": "2027-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-08-26T20:19:00Z",
+      "description": "Профессиональная лицензия на 3 устройства"
+    }
+  ],
+  "activation_log": [],
+  "metadata": {
+    "generator": "Wourld License System v1.0",
+    "telegram_support": "@Wourld_soft",
+    "github_repo": "Hacker3474/TestkeyNot123",
+    "version": "1.0.0",
+    "key_distribution": {
+      "total_keys": 20,
+      "single_device": 10,
+      "dual_device": 5,
+      "triple_device": 5
+    }
+  }
+}
