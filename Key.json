@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T20:19:00Z",
+  "last_updated": "2025-08-26T20:29:44.396262",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -9,7 +9,17 @@
       "status": "active",
       "max_devices": 1,
       "expires": "2026-12-31",
-      "device_ids": [],
+      "device_ids": [
+        {
+          "device_id": "926AE41115289F49",
+          "pc_name": "DESKTOP-DNHKG7J",
+          "username": "agsjs",
+          "public_ip": "213.206.62.246",
+          "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "city": "Tashkent",
+          "registration_time": "2025-08-26T20:29:44.396262"
+        }
+      ],
       "used_devices": 0,
       "created": "2025-08-26T20:19:00Z",
       "description": "Стандартная лицензия на 1 устройство"
