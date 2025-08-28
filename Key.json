@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-28T13:53:36.096965",
+  "last_updated": "2025-08-28T15:55:30.482338",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -138,6 +138,15 @@
           "country": "Россия",
           "city": "Vologda",
           "registration_time": "2025-08-28T13:53:36.096959"
+        },
+        {
+          "device_id": "1C1F71A81D889778",
+          "pc_name": "DESKTOP-163QC4M",
+          "username": "PC",
+          "public_ip": "78.36.36.254",
+          "country": "Россия",
+          "city": "Petrozavodsk",
+          "registration_time": "2025-08-28T15:55:30.482331"
         }
       ],
       "used_devices": 0,
