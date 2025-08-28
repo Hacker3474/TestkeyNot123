@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-26T20:29:44.396262",
+  "last_updated": "2025-08-28T13:53:02.550959",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -129,7 +129,17 @@
       "status": "active",
       "max_devices": 2,
       "expires": "2026-12-31",
-      "device_ids": [],
+      "device_ids": [
+        {
+          "device_id": "5EDE9D8C6C7CD7D5",
+          "pc_name": "DESKTOP-M8J05V0",
+          "username": "maksi",
+          "public_ip": "176.126.48.103",
+          "country": "Россия",
+          "city": "Vologda",
+          "registration_time": "2025-08-28T13:53:02.550953"
+        }
+      ],
       "used_devices": 0,
       "created": "2025-08-26T20:19:00Z",
       "description": "Премиум лицензия на 2 устройства"
