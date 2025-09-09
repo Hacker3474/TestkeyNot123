@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-08-28T16:00:01.306794",
+  "last_updated": "2025-09-09T20:27:33.396043",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -30,7 +30,17 @@
       "status": "active",
       "max_devices": 1,
       "expires": "2026-12-31",
-      "device_ids": [],
+      "device_ids": [
+        {
+          "device_id": "D9789AF419187515",
+          "pc_name": "localhost",
+          "username": "u0_a212",
+          "public_ip": "93.178.67.197",
+          "country": "Россия",
+          "city": "Azov",
+          "registration_time": "2025-09-09T20:27:33.395951"
+        }
+      ],
       "used_devices": 0,
       "created": "2025-08-26T20:19:00Z",
       "description": "Стандартная лицензия на 1 устройство"
