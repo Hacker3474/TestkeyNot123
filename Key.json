@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-09T22:32:37.522335",
+  "last_updated": "2025-09-10T20:25:13.270165",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -179,7 +179,17 @@
       "status": "active",
       "max_devices": 2,
       "expires": "2026-12-31",
-      "device_ids": [],
+      "device_ids": [
+        {
+          "device_id": "B37B96EE5081BCD2",
+          "pc_name": "localhost",
+          "username": "u0_a212",
+          "public_ip": "93.178.67.197",
+          "country": "Россия",
+          "city": "Azov",
+          "registration_time": "2025-09-10T20:25:13.270123"
+        }
+      ],
       "used_devices": 0,
       "created": "2025-08-26T20:19:00Z",
       "description": "Премиум лицензия на 2 устройства"
