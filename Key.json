@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-10T20:25:13.270165",
+  "last_updated": "2025-09-11T16:21:30.359530",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -188,6 +188,15 @@
           "country": "Россия",
           "city": "Azov",
           "registration_time": "2025-09-10T20:25:13.270123"
+        },
+        {
+          "device_id": "4A7D6DFB2E0267B5",
+          "pc_name": "localhost",
+          "username": "u0_a212",
+          "public_ip": "109.165.84.205",
+          "country": "Россия",
+          "city": "Aksay",
+          "registration_time": "2025-09-11T16:21:30.359477"
         }
       ],
       "used_devices": 0,
