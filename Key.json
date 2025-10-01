@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-11T16:21:30.359530",
+  "last_updated": "2025-10-01T10:11:48.232532",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -286,7 +286,17 @@
       "status": "active",
       "max_devices": 3,
       "expires": "2027-12-31",
-      "device_ids": [],
+      "device_ids": [
+        {
+          "device_id": "B6E022E68D1C9431",
+          "pc_name": "DESKTOP-P2BT9HR",
+          "username": "Admin",
+          "public_ip": "37.52.32.85",
+          "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "city": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "registration_time": "2025-10-01T10:11:48.232521"
+        }
+      ],
       "used_devices": 0,
       "created": "2025-08-26T20:19:00Z",
       "description": "Профессиональная лицензия на 3 устройства"
