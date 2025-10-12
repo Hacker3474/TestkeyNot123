@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-01T10:40:25.329082",
+  "last_updated": "2025-10-12T22:42:00.977010",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -304,6 +304,15 @@
           "country": "Украина",
           "city": "Dnipro",
           "registration_time": "2025-10-01T10:40:25.329011"
+        },
+        {
+          "device_id": "A26DD04D02C4B665",
+          "pc_name": "localhost",
+          "username": "u0_a226",
+          "public_ip": "188.170.169.75",
+          "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "city": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "registration_time": "2025-10-12T22:42:00.976900"
         }
       ],
       "used_devices": 0,
