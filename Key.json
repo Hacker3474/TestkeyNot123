@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-16T07:30:00Z",
+  "last_updated": "2025-10-16T21:21:33.697101",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -325,7 +325,17 @@
       "status": "active",
       "max_devices": 500,
       "expires": "2028-12-31",
-      "device_ids": [],
+      "device_ids": [
+        {
+          "device_id": "E901ED5048D2FBDB",
+          "pc_name": "localhost",
+          "username": "u0_a226",
+          "public_ip": "217.170.199.25",
+          "country": "Norway",
+          "city": "Haugesund",
+          "registration_time": "2025-10-16T21:21:33.697058"
+        }
+      ],
       "used_devices": 0,
       "created": "2025-10-16T07:30:00Z",
       "description": "Корпоративная лицензия на 500 устройств"
