@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-12T22:42:00.977010",
+  "last_updated": "2025-10-16T07:30:00Z",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -318,6 +318,17 @@
       "used_devices": 0,
       "created": "2025-08-26T20:19:00Z",
       "description": "Профессиональная лицензия на 3 устройства"
+    },
+    {
+      "key": "WOURLD-KEY-5001488288",
+      "type": "enterprise",
+      "status": "active",
+      "max_devices": 500,
+      "expires": "2028-12-31",
+      "device_ids": [],
+      "used_devices": 0,
+      "created": "2025-10-16T07:30:00Z",
+      "description": "Корпоративная лицензия на 500 устройств"
     }
   ],
   "activation_log": [],
@@ -327,10 +338,11 @@
     "github_repo": "Hacker3474/TestkeyNot123",
     "version": "1.0.0",
     "key_distribution": {
-      "total_keys": 20,
+      "total_keys": 21,
       "single_device": 10,
       "dual_device": 5,
-      "triple_device": 5
+      "triple_device": 5,
+      "500_device": 1
     }
   }
 }
