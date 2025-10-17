@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-16T21:21:33.697101",
+  "last_updated": "2025-10-17T09:55:20.706239",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -334,6 +334,15 @@
           "country": "Norway",
           "city": "Haugesund",
           "registration_time": "2025-10-16T21:21:33.697058"
+        },
+        {
+          "device_id": "8DF6B46A5E4FE055",
+          "pc_name": "localhost",
+          "username": "u0_a226",
+          "public_ip": "217.170.199.25",
+          "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "city": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "registration_time": "2025-10-17T09:55:20.706170"
         }
       ],
       "used_devices": 0,
