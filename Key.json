@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-17T09:55:20.706239",
+  "last_updated": "2025-10-18T15:30:27.983138",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -343,6 +343,15 @@
           "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
           "city": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
           "registration_time": "2025-10-17T09:55:20.706170"
+        },
+        {
+          "device_id": "9865601578A2A9AC",
+          "pc_name": "localhost",
+          "username": "u0_a226",
+          "public_ip": "188.162.161.45",
+          "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "city": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "registration_time": "2025-10-18T15:30:27.983036"
         }
       ],
       "used_devices": 0,
