@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-19T10:14:21.108857",
+  "last_updated": "2025-10-19T10:41:25.899485",
   "total_activations": 0,
   "total_active_devices": 0,
   "keys": [
@@ -361,6 +361,15 @@
           "country": "Россия",
           "city": "Gukovo",
           "registration_time": "2025-10-19T10:14:21.108789"
+        },
+        {
+          "device_id": "31D21B4E105F0E12",
+          "pc_name": "localhost",
+          "username": "u0_a226",
+          "public_ip": "176.59.71.144",
+          "country": "{'error': True, 'reason': 'RateLimited', 'message': 'Visit https://ipapi.co/ratelimited/ for details'}",
+          "city": "Неизвестно",
+          "registration_time": "2025-10-19T10:41:25.899384"
         }
       ],
       "used_devices": 0,
